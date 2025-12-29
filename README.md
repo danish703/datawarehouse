@@ -26,10 +26,3 @@ SQL (Structured Query Language) is the backbone of data warehousing. Mastering a
 2. Set up a sample data warehouse schema.
 3. Practice SQL queries using real-world datasets.
 
-## Resources
-
-- [SQL Tutorial](https://www.w3schools.com/sql/)
-- [Data Warehousing Concepts](https://www.oracle.com/database/what-is-a-data-warehouse/)
-- [Advanced SQL Techniques](https://mode.com/sql-tutorial/)
-
-Happy learning!
